@@ -8,7 +8,7 @@
 ## 🧠 About This Project
 
 Welcome! 👋
-This is a **minimal yet powerful Python script** that instantly generates a **QR code** linking directly to my GitHub repositories.
+This is a **minimal yet powerful Python script** that instantly generates a **QR code** linking directly to my GitHub Profile.
 
 Whether you're attending an event, submitting a resume, or building your digital portfolio — this little utility helps you share your profile with just one scan 📱.
 
